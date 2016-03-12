@@ -2,5 +2,5 @@
 
 #define CHANNEL 80
 
-#define GRAPHITE_HOST "10.38.20.1"
+#define GRAPHITE_HOST "192.168.1.201"
 #define GRAPHITE_PORT 2003
